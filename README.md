@@ -1,6 +1,8 @@
 # FragmentManager
 <p> 
-Bu projemde, Fragment Manager ile Fragment kullanımı hakkında bir makale yazdım. Bu makalemde FragmentManager uygulamlı olarak kullanmak için oluşturduğum  bir android projesidir.
+Bu projemde, Fragment Manager ile Fragment kullanımı hakkında Medium'da yazı yazdım. Bu yazımda FragmentManager uygulamlı olarak kullanmak için oluşturduğum  bir android projesidir.Medium yazım için aşağıdaki linkten ulaşabilirsiniz.
+</p>
+<p>
 https://medium.com/@bunyaminkiremit/android-fragment-kullan%C4%B1m%C4%B1-88670a247aba 
 </p>
 
