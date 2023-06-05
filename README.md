@@ -1,6 +1,7 @@
 # FragmentManager
 <p> 
-Bu projemde, Fragment hakkında bir makale yazdım ve makalemde FragmentManager uygulamlı olarak anlatmak için gerekli sınıfların kullanımını mainActiviyt içerisinde uyguladım.                                  
+Bu projemde, Fragment Manager ile Fragment kullanımı hakkında bir makale yazdım. Bu makalemde FragmentManager uygulamlı olarak kullanmak için oluşturduğum  bir android projesidir.
+https://medium.com/@bunyaminkiremit/android-fragment-kullan%C4%B1m%C4%B1-88670a247aba 
 </p>
 
 ### Screenshots
